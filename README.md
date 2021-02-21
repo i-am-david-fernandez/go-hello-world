@@ -8,7 +8,6 @@
 [![Build Status](https://travis-ci.com/i-am-david-fernandez/go-hello-world.svg?branch=master)](https://travis-ci.com/i-am-david-fernandez/go-hello-world)
 [![GolangCI](https://golangci.com/badges/github.com/i-am-david-fernandez/go-hello-world.svg)](https://golangci.com)
 
-
 A simple Hello World to demonstrate some basic Go app-building features.
 
 This project exists not so much to demonstrate a Go application as to demonstrate how one can include and integrate the use of various development tools and services into a GitHub-hosted Go project.
